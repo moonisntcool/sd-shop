@@ -36,7 +36,7 @@
             "damage": {
                 "0-25m": {
                     "head": 74,
-                    "body": 22,
+                    "body": 26,
                     "legs": 22
                 },
                 "25m+": {
@@ -51,7 +51,7 @@
         "name": "M10 Brat",
         "description": "Fires a rapid barrage of bullets. SMall magazine so watch your ammo count.\n\nPenetration: Mid",
         "type": "Sidearm",
-        "price": [400],
+        "price": [200],
         "bundleId": [2],
         "image": "/vault/weapons/default/m10_brat.webp",
         "stats": {
@@ -78,7 +78,7 @@
         "name": "Shiv",
         "description": "Low caliber supressed pistol.\nTracers are invisible to enemies.\nIncreased movement speed\n\nPenetration: Mid",
         "type": "Sidearm",
-        "price": [400,800],
+        "price": [200],
         "bundleId": [2, 3],
         "image": "/vault/weapons/default/shiv.webp",
         "stats": {
@@ -110,7 +110,7 @@
         "name": "Duster RX6",
         "description": "High risk, high reward. Low rate of fire, so make your shots count.\n\nPenetration: Mid",
         "type": "Sidearm",
-        "price": [800,1000],
+        "price": [500],
         "bundleId": [3,5],
         "image": "/vault/weapons/default/duster_rx6.webp",
         "stats": {
@@ -138,7 +138,7 @@
         "description": "Submachine gun with precise recoil control in short bursts. Perfect for mid-range encounters.\n\nPenetration: Low",
         "type": "SMG",
         "category": "Main",
-        "price": [900,1000,1200],
+        "price": [500],
         "bundleId": [4,5,6],
         "image": "/vault/weapons/default/m25_hornet.webp",
         "stats": {
@@ -166,7 +166,7 @@
         "description": "Pump-action shotgun with formidable stopping power. Great for close-range engagements.\nInterruptible reload.\n\nPenetration: Low",
         "type": "Shotgun",
         "category": "Main",
-        "price": [900],
+        "price": [500],
         "bundleId": [4],
         "image": "/vault/weapons/default/m17_bouncer.webp",
         "stats": {
@@ -199,7 +199,7 @@
         "description": "Lightweight semi-automatic sniper rifle. Inaccurate when moving. Lethal headshots at any range.\n\nPenetration: High",
         "type": "Sniper",
         "category": "Main",
-        "price": [1200,1500],
+        "price": [700],
         "bundleId": [6,7],
         "image": "/vault/weapons/default/harpe.webp",
         "stats": {
@@ -221,7 +221,7 @@
         "name": "Buzzsaw RT40",
         "description": "Rapidfire submachine gun with a large magazine. Recoil can be difficult to control.\n\nPenetration: Low",
         "type": "SMG",
-        "price": [1500,1600,1700],
+        "price": [800],
         "bundleId": [7,8,9],
         "image": "/vault/weapons/default/buzzsaw_rt40.webp",
         "stats": {
@@ -249,7 +249,7 @@
         "description": "Burst assault rifle with precision optics. Great for disciplined marksmanship. 3-round burst.\n\nPenetration: High",
         "type": "Burst AR",
         "category": "Main",
-        "price": [1600],
+        "price": [800],
         "bundleId": [8],
         "image": "/vault/weapons/default/trident.webp",
         "stats": {
@@ -271,7 +271,7 @@
         "name": "Whisper",
         "description": "Recoil is hard to control, but settles into a steady rhythm. Tracers are invisible to enemies. Increases movement speed.\n\nPenetration: Low",
         "type": "SMG",
-        "price": [1700],
+        "price": [900],
         "bundleId": [9,16],
         "image": "/vault/weapons/default/whisper.webp",
         "stats": {
@@ -299,7 +299,7 @@
         "description": "Reliable, standard-issue rifle suitable for various combat scenarios. Great for mid to long-range engagements.\n\nPenetration: High",
         "type": "AR",
         "category": "Main",
-        "price": [2300,2400,2500],
+        "price": [1200],
         "bundleId": [10,11,12],
         "image": "/vault/weapons/default/cyclone.webp",
         "stats": {
@@ -332,7 +332,7 @@
         "description": "Fully automatic shotgun with a high-capacity drum magazine. Overheats when fired continuously.\n\nPenetration: Low",
         "type": "Auto Shotgun",
         "category": "Main",
-        "price": [2300,6100],
+        "price": [1100],
         "bundleId": [10,17],
         "image": "/vault/weapons/default/m18_drummer.webp",
         "stats": {
@@ -365,7 +365,7 @@
         "description": "Slow rate of fire and a large magazine. Ideal for laying down suppressive fire.\n\nPenetration: High",
         "type": "Machine Gun",
         "category": "Main",
-        "price": [2400],
+        "price": [1100],
         "bundleId": [11],
         "image": "/vault/weapons/default/m49_fury.webp",
         "stats": {
@@ -393,7 +393,7 @@
         "description": "Semi-automatic rifle with lethal headshots at any range. High zoom optics are great for long range.\n\nPenetration: High",
         "type": "Semi-Auto AR",
         "category": "Main",
-        "price": [2500],
+        "price": [1300],
         "bundleId": [12],
         "image": "/vault/weapons/default/tempest.webp",
         "stats": {
@@ -426,7 +426,7 @@
         "description": "Assault rifle with precise sustained recoil control. Excels at mid-long range encounters.\n\nPenetration: High",
         "type": "AR",
         "category": "Main",
-        "price": [3800, 4100, 4100],
+        "price": [2200],
         "bundleId": [13,14,15],
         "image": "/vault/weapons/default/crusader.webp",
         "stats": {
@@ -459,7 +459,7 @@
         "description": "High rate of fire belt-fed machine gun. Recoil becomes easier to manage over time. Rate of fire increases during full auto.\n\nPenetration: High",
         "type": "Machine Gun",
         "category": "Main",
-        "price": [3800],
+        "price": [1700],
         "bundleId": [13],
         "image": "/vault/weapons/default/beserker_rb3.webp",
         "stats": {
@@ -487,7 +487,7 @@
         "description": "High rate of fire assault rifle with a built-in suppressor. Tracers are invisible to enemies. Increased move speed.\n\nPenetration: High",
         "type": "AR",
         "category": "Main",
-        "price": [4100, 7200],
+        "price": [2400],
         "bundleId": [14,18],
         "image": "/vault/weapons/default/blackout.webp",
         "stats": {
@@ -515,7 +515,7 @@
         "description": "High caliber assault rifle with a slow rate of fire. Lethal headshots at any range.\n\nPenetration: High",
         "type": "AR",
         "category": "Main",
-        "price": [4100],
+        "price": [2400],
         "bundleId": [15],
         "image": "/vault/weapons/default/m67_reaver.webp",
         "stats": {
@@ -538,7 +538,7 @@
         "description": "Bolt action sniper rigle capable of a one-shot-kill at any range. Inaccurate when moving. One-shot-kill.\n\nPenetration: High",
         "type": "Sniper",
         "category": "Main",
-        "price": [5900, 6100, 7200],
+        "price": [5000],
         "bundleId": [16,17,18],
         "image": "/vault/weapons/default/prototype-op.webp",
         "stats": {
